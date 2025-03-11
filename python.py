@@ -1,4 +1,4 @@
 name = 'John'
-Age = '25'
+age = '25'
 gender = 'male'
 occupation = 'trader'
